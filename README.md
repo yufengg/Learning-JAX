@@ -10,3 +10,5 @@ For more comprehensive documentation please see the individual websites:
 * https://optax.readthedocs.io
 * https://google-grain.readthedocs.io
 * https://chex.readthedocs.io
+
+[Join our growing community on Discord](https://goo.gle/jax-community) and connect with other developers!
